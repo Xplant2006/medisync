@@ -1,2 +1,2 @@
 ## Medisync
-An application built to help doctors and health-care professionals access medical records through the cloud.
+A secure, cloud-based web application that allows doctors and healthcare professionals to access, update, and manage medical records efficiently.
